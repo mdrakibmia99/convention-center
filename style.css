@@ -1,0 +1,24 @@
+body{
+    background-color: #FFFFFF;
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+    padding: 0;
+
+}
+.rk-btn-blue{
+    color:#3F87F5;
+}
+.first-slider{
+    background-image: url(images/banner.png);
+    background-repeat: no-repeat;
+    background-position:center;
+}
+.img-width-full{
+    width:100%;
+}
+.hover-shadow{
+    transition:all 0.5s;
+}
+.hover-shadow:hover {
+    box-shadow: -5px -5px 10px -5px rgba(151, 151, 151, 0.75) !important;
+}
